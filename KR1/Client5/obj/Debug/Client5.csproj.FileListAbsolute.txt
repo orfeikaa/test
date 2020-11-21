@@ -1,0 +1,48 @@
+C:\Users\Полина\source\repos\Server5\Client5\bin\Debug\Client5.exe.config
+C:\Users\Полина\source\repos\Server5\Client5\bin\Debug\Client5.exe
+C:\Users\Полина\source\repos\Server5\Client5\bin\Debug\Client5.pdb
+C:\Users\Полина\source\repos\Server5\Client5\obj\Debug\Client5.csprojResolveAssemblyReference.cache
+C:\Users\Полина\source\repos\Server5\Client5\obj\Debug\Client5.Form1.resources
+C:\Users\Полина\source\repos\Server5\Client5\obj\Debug\Client5.Properties.Resources.resources
+C:\Users\Полина\source\repos\Server5\Client5\obj\Debug\Client5.csproj.GenerateResource.Cache
+C:\Users\Полина\source\repos\Server5\Client5\obj\Debug\Client5.exe
+C:\Users\Полина\source\repos\Server5\Client5\obj\Debug\Client5.pdb
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\bin\Debug\Client5.exe.config
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\bin\Debug\Client5.exe
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\bin\Debug\Client5.pdb
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\obj\Debug\Client5.csprojResolveAssemblyReference.cache
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\obj\Debug\Client5.Form1.resources
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\obj\Debug\Client5.Properties.Resources.resources
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\obj\Debug\Client5.csproj.GenerateResource.Cache
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\obj\Debug\Client5.exe
+C:\Users\Полина\source\repos\БИПиТ5(5)\Client5\obj\Debug\Client5.pdb
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\bin\Debug\Client5.exe.config
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\bin\Debug\Client5.exe
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\bin\Debug\Client5.pdb
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csprojAssemblyReference.cache
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\obj\Debug\Client5.Form1.resources
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\obj\Debug\Client5.Properties.Resources.resources
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csproj.GenerateResource.cache
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csproj.CoreCompileInputs.cache
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\obj\Debug\Client5.exe
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Client5\obj\Debug\Client5.pdb
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\bin\Debug\Client5.exe.config
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\bin\Debug\Client5.exe
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\bin\Debug\Client5.pdb
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csprojAssemblyReference.cache
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.Form1.resources
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.Properties.Resources.resources
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csproj.GenerateResource.cache
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csproj.CoreCompileInputs.cache
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.exe
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\bin\Debug\Client5.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\bin\Debug\Client5.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\bin\Debug\Client5.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.Form1.resources
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.Properties.Resources.resources
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csproj.GenerateResource.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Client5\obj\Debug\Client5.csprojAssemblyReference.cache

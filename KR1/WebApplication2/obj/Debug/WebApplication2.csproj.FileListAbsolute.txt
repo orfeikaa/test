@@ -1,0 +1,106 @@
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\csi.exe
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\WebApplication2.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Полина\source\repos\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.pdb
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.exe
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.exe.config
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.rsp
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csi.exe
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csi.rsp
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.AppContext.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.exe
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.exe.config
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.rsp
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\VBCSCompiler.exe
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\WebApplication2.dll.config
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\WebApplication2.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\WebApplication2.pdb
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.dll
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csi.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\WebApplication2.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache

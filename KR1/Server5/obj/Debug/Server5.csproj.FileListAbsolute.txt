@@ -1,0 +1,29 @@
+C:\Users\Полина\source\repos\Server5\Server5\bin\Debug\Server5.exe.config
+C:\Users\Полина\source\repos\Server5\Server5\bin\Debug\Server5.exe
+C:\Users\Полина\source\repos\Server5\Server5\bin\Debug\Server5.pdb
+C:\Users\Полина\source\repos\Server5\Server5\obj\Debug\Server5.csprojResolveAssemblyReference.cache
+C:\Users\Полина\source\repos\Server5\Server5\obj\Debug\Server5.exe
+C:\Users\Полина\source\repos\Server5\Server5\obj\Debug\Server5.pdb
+C:\Users\Полина\source\repos\БИПиТ5(5)\Server5\bin\Debug\Server5.exe.config
+C:\Users\Полина\source\repos\БИПиТ5(5)\Server5\bin\Debug\Server5.exe
+C:\Users\Полина\source\repos\БИПиТ5(5)\Server5\bin\Debug\Server5.pdb
+C:\Users\Полина\source\repos\БИПиТ5(5)\Server5\obj\Debug\Server5.exe
+C:\Users\Полина\source\repos\БИПиТ5(5)\Server5\obj\Debug\Server5.pdb
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Server5\bin\Debug\Server5.exe.config
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Server5\bin\Debug\Server5.exe
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Server5\bin\Debug\Server5.pdb
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Server5\obj\Debug\Server5.csproj.CoreCompileInputs.cache
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Server5\obj\Debug\Server5.exe
+G:\Уникум\БПиТ\5-й семестр\lab6\work\БИПиТ5(5)\Server5\obj\Debug\Server5.pdb
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Server5\bin\Debug\Server5.exe.config
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Server5\bin\Debug\Server5.exe
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Server5\bin\Debug\Server5.pdb
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Server5\obj\Debug\Server5.csproj.CoreCompileInputs.cache
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Server5\obj\Debug\Server5.exe
+G:\Уникум\БПиТ\5-й семестр\KR1\work\БИПиТ5(5)\Server5\obj\Debug\Server5.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Server5\bin\Debug\Server5.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Server5\bin\Debug\Server5.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Server5\bin\Debug\Server5.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Server5\obj\Debug\Server5.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Server5\obj\Debug\Server5.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\KR1\KR1\work\БИПиТ5(5)\Server5\obj\Debug\Server5.pdb
